@@ -1,0 +1,19 @@
+.square {
+    background-color: navy;
+    border: 30px solid green;
+    /* width: 30px;
+    height: 30px; */
+};
+
+.blue_square {
+  background-color: navy;
+  height: 50px;
+  width: 50px;
+}
+
+.green_square {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+
+}
